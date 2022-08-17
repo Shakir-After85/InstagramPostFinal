@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    
+}
+.post-header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.header-div{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+
+.igpost{
+    
+    
+    background-color: white;
+    width: 45%;
+    
+    margin: auto;
+    }
+.post-img{
+    display: inline;
+    margin: auto;
+    height: 300px;
+    width: 50%;
+    
+    
+}
+.post-icons{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.post-body{
+ 
+  padding: 10px;
+  font-size: 15px;
+  
+ 
+}
+
+img {
+    display:block;
+    max-width: 100%;
+    height:auto;
+}
